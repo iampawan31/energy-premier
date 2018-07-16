@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="423px" height="290px" viewBox="0 0 423 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>demo1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="demo1" transform="translate(3.000000, 0.000000)">
+            <g id="Group">
+                <g>
+                    <path d="M131.1,18.7 C101.5,33.3 71,50.2 54.3,78.6 C44.3,95.6 40,115.4 38.8,135.1 C38,149.4 38.7,163.9 42.6,177.7 C47.4,194.6 56.8,209.8 67.4,223.8 C79.8,240.1 94.3,255.1 111.7,265.9 C135.8,280.8 164.4,287 192.6,288.9 C212.6,290.3 232.9,289.7 252.1,284.2 C271.3,278.7 289.5,267.8 301.2,251.6 C311.8,236.9 316.6,218.8 319.1,200.9 C326.1,150.5 316.4,98 291.8,53.5 C282.6,36.9 270.9,21 254.4,11.7 C218.4,-8.5 166,1.5 131.1,18.7 L131.1,18.7 Z" id="Shape" fill="#F1F9F7"></path>
+                    <path d="M125,107.7 C113.9,122.6 97.6,132.7 79.6,137 L13.1,152.9 L28.6,217.8 L97.6,201.4 C114.7,197.9 132.7,199.6 148.4,207.3" id="Shape" fill="#F2F4F6"></path>
+                    <rect id="Rectangle-path" fill="#F37D7D" transform="translate(146.997020, 154.226720) rotate(-13.449826) translate(-146.997020, -154.226720) " x="137.196758" y="90.9250261" width="19.6005245" height="126.603388"></rect>
+                    <path d="M115.2,118.4 L135.3,202.4 C139.8,203.6 144.2,205.3 148.5,207.3 L125,107.7 C122.1,111.6 118.8,115.2 115.2,118.4 L115.2,118.4 Z" id="Shape" fill="#CFD5D8"></path>
+                    <polygon id="Shape" fill="#61C3AA" points="9.4 206.5 26.3 208 14.5 158.7 0.2 167.7"></polygon>
+                    <polyline id="Shape" fill="#96A6AF" points="73.6 209.1 96.6 251.2 71.8 264.8 44.6 216.1"></polyline>
+                    <polyline id="Shape" fill="#88989F" points="50.4 228.1 51.2 227.8 78.4 217.8 72.2 207.4 46.1 215.3"></polyline>
+                    <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(48.745780, 178.070480) rotate(-13.449826) translate(-48.745780, -178.070480) " x="43.2956342" y="144.119572" width="10.9002917" height="67.901817"></rect>
+                    <path d="M160.7,164 C165.6,161.6 168.4,156 167,150.5 C165.7,145 160.7,141.2 155.2,141.3" id="Shape" fill="#96A6AF"></path>
+                    <path d="M302.3,13.5 L183.2,13.5 C177.3,13.5 172.6,18.3 172.6,24.1 L172.6,97.3 C172.6,103.2 177.4,107.9 183.2,107.9 L204.4,107.9 L204.4,130.1 L229.9,107.9 L307.4,107.9 C313.3,107.9 318,103.1 318,97.3 L318,29.1" id="Shape" fill="#FFFFFF"></path>
+                    <circle id="Oval" fill="#F37D7D" cx="313.7" cy="17.8" r="10.9"></circle>
+                    <path d="M58.1,152.6 L89.3,144.6 C97.9,142.4 105.7,137.8 111.8,131.3 L111.8,131.3" id="Shape" stroke="#FFFFFF" stroke-width="2.5"></path>
+                </g>
+                <g transform="translate(0.000000, 3.000000)">
+                    <g transform="translate(18.000000, 0.000000)" stroke="#E3E6E7" stroke-width="2.5">
+                        <path d="M253.9,119.4 L253.9,179.6" id="Shape"></path>
+                        <path d="M231.6,262.5 L368.5,262.5 C385.9,262.5 399.9,248.4 399.9,231.1 L399.9,72.1 L300.5,72.1" id="Shape"></path>
+                        <path d="M231.6,262.5 L231.6,262.5 C244,262.5 254,252.5 254,240.1 L254,124.4 L209.3,124.4 L209.3,240.2 C209.2,252.5 219.2,262.5 231.6,262.5 L231.6,262.5 Z" id="Shape"></path>
+                        <path d="M280.1,241.1 L268.2,241.1" id="Shape"></path>
+                        <path d="M388.5,241.1 L298.2,241.1" id="Shape"></path>
+                        <path d="M372,86.4 L385.6,86.4" id="Shape"></path>
+                        <path d="M359.8,86.4 L363,86.4" id="Shape"></path>
+                        <path d="M348.1,86.4 L351.3,86.4" id="Shape"></path>
+                        <path d="M300.5,86.4 L316,86.4" id="Shape"></path>
+                        <path d="M268.2,126.1 L385.6,126.1" id="Shape"></path>
+                        <path d="M268.2,137.6 L328.6,137.6" id="Shape"></path>
+                        <path d="M292.5,149.1 L328.6,149.1" id="Shape"></path>
+                        <path d="M268.2,149.1 L282,149.1" id="Shape"></path>
+                        <path d="M268.2,160.6 L328.6,160.6" id="Shape"></path>
+                        <path d="M268.2,172.1 L328.6,172.1" id="Shape"></path>
+                        <path d="M313.5,183.6 L328.6,183.6" id="Shape"></path>
+                        <path d="M268.2,183.6 L303.5,183.6" id="Shape"></path>
+                        <path d="M268.2,195.1 L385.6,195.1" id="Shape"></path>
+                        <path d="M322.6,206.6 L385.6,206.6" id="Shape"></path>
+                        <path d="M268.2,206.6 L311,206.6" id="Shape"></path>
+                        <path d="M359.6,218.1 L385.6,218.1" id="Shape"></path>
+                        <path d="M298.4,218.1 L346.9,218.1" id="Shape"></path>
+                        <path d="M268.2,218.1 L289.6,218.1" id="Shape"></path>
+                        <path d="M268.2,229.6 L385.6,229.6" id="Shape"></path>
+                        <polyline id="Shape" points="300 98.6 385.6 98.6 385.6 113.7 291.7 113.7 291.7 106.2"></polyline>
+                        <rect id="Rectangle-path" x="340.5" y="137.6" width="45" height="46"></rect>
+                        <path d="M253.9,123.1 L253.9,105" id="Shape"></path>
+                        <g id="Shape">
+                            <polygon points="72.4 36.2 0.3 0.1 17.4 63.8 41.9 48.2 46.4 58.7 51.8 44.9"></polygon>
+                            <path d="M46.4,58.7 L38.5,50.4"></path>
+                            <polyline points="41.9 48.2 0.3 0.1 51.8 44.9"></polyline>
+                        </g>
+                        <path d="M49.3,62.3 C53.8,70 59.7,77.2 67.2,82 C74.8,86.8 84.2,89.1 92.9,87 C93.9,86.8 95,86.4 95.8,85.8 C98,84 97.7,80.7 97.4,77.9 C96.8,72.3 96.5,66.6 96.6,61 C96.6,59.5 96.7,57.9 97.4,56.6 C98.6,54.4 101.3,53.5 103.8,52.9 C111.8,51.1 120.6,51.1 127.1,46.1 C133.9,40.9 136.3,31.2 134.7,22.8" id="Shape" stroke-dasharray="0,12"></path>
+                    </g>
+                    <g transform="translate(0.000000, 3.000000)" stroke="#404F61">
+                        <g transform="translate(0.000000, 84.000000)">
+                            <path d="M125,17.7 C113.9,32.6 97.6,42.7 79.6,47 L13.1,62.9 L28.6,127.8 L97.6,111.4 C114.7,107.9 132.7,109.6 148.4,117.3" id="Shape" stroke-width="5"></path>
+                            <path d="M36.2,57.4 L51.7,122.3" id="Shape" stroke-width="2.5"></path>
+                            <path d="M46.1,55 L61.7,119.9" id="Shape" stroke-width="2.5"></path>
+                            <rect id="Rectangle-path" stroke-width="5.0001338" transform="translate(146.997020, 64.226720) rotate(-13.449826) translate(-146.997020, -64.226720) " x="137.196758" y="0.925026115" width="19.6005245" height="126.603388"></rect>
+                            <polygon id="Shape" stroke-width="5" points="9.4 116.5 26.3 118 14.5 68.7 0.2 77.7"></polygon>
+                            <polyline id="Shape" stroke-width="5" points="73.6 119.1 96.6 161.2 71.8 174.8 44.6 126.1"></polyline>
+                            <path d="M160.7,74 C165.6,71.6 168.4,66 167,60.5 C165.7,55 160.7,51.2 155.2,51.3" id="Shape" stroke-width="5"></path>
+                            <path d="M96.6,113.6 C98.2,123.2 93.4,132.6 85,137.1" id="Shape" stroke-width="5"></path>
+                        </g>
+                        <path d="M302.3,7.5 L183.2,7.5 C177.3,7.5 172.6,12.3 172.6,18.1 L172.6,91.3 C172.6,97.2 177.4,101.9 183.2,101.9 L204.4,101.9 L204.4,124.1 L229.9,101.9 L307.4,101.9 C313.3,101.9 318,97.1 318,91.3 L318,23.1" id="Shape" stroke-width="5"></path>
+                        <path d="M257.6,76.2 L297.5,76.2" id="Shape" stroke-width="2.5"></path>
+                        <path d="M236,61.4 L297.5,61.4" id="Shape" stroke-width="2.5"></path>
+                        <path d="M193,44.7 L221.2,44.7" id="Shape" stroke-width="2.5"></path>
+                        <path d="M193,29.9 L247.4,29.9" id="Shape" stroke-width="2.5"></path>
+                        <circle id="Oval" stroke-width="5" cx="313.7" cy="11.8" r="10.9"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

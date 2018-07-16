@@ -1,0 +1,8 @@
+/*@import url("bootstrap.min.css"); */					/* Main Bootstrap */
+@import url("animate.min.css");							/* Animate On Page Scroll */
+@import url("style.css");										/* Main theme styles */
+@import url("menu.css");										/* Menu styles */	/* Responsive */
+@import url("icon_fonts/css/all_icons.css"); /* Icon pack */
+@import url("switchery.min.css");
+
+

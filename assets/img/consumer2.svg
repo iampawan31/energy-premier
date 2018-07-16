@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="261px" height="217px" viewBox="0 0 261 217" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="49715-O620F4" transform="translate(-281.000000, 8.000000)">
+            <g id="Group" transform="translate(281.000000, 0.000000)">
+                <path d="M260.489,133.291 C260.489,118.939 248.855,107.375 234.503,107.375 C224.335,107.375 215.538,113.253 211.269,121.762 C208.592,106.821 195.539,95.497 179.829,95.497 C164.119,95.497 151.067,106.848 148.39,121.788 C144.121,113.28 135.323,107.441 125.156,107.441 C110.804,107.441 99.17,118.937 99.17,133.289 C99.17,133.573 99.182,134 99.191,134 L260.467,134 C260.476,134 260.489,133.576 260.489,133.291" id="Fill-3" fill="#C1E2F9"></path>
+                <path d="M162.178,182.368 C162.178,168.017 150.544,156.492 136.192,156.492 C126.024,156.492 117.227,162.389 112.958,170.898 C110.281,155.958 97.228,144.643 81.518,144.643 C65.808,144.643 52.756,155.998 50.079,170.938 C45.81,162.43 37.012,156.594 26.845,156.594 C12.493,156.594 0.859,168.014 0.859,182.365 C0.859,182.65 0.871,183 0.88,183 L162.156,183 C162.165,183 162.178,182.653 162.178,182.368" id="Fill-4" fill="#C1E2F9"></path>
+                <polyline id="Fill-5" fill="#DBDCD6" points="174.604 200.976 61.48 200.976 61.48 56.743 118.042 0.712 174.604 56.743 174.604 200.976"></polyline>
+                <polyline id="Stroke-6" stroke="#FC5457" stroke-width="10.533" points="41.553 76.489 118.042 0 194.531 76.489"></polyline>
+                <polygon id="Fill-8" fill="#FFFFFF" points="82.08 200.832 115.628 200.832 115.628 137.295 82.08 137.295"></polygon>
+                <polygon id="Stroke-9" stroke="#121513" stroke-width="5.852" points="82.08 200.832 115.628 200.832 115.628 137.295 82.08 137.295"></polygon>
+                <polygon id="Fill-10" fill="#FFFFFF" points="130.21 164.544 157.459 164.544 157.459 137.295 130.21 137.295"></polygon>
+                <polygon id="Stroke-11" stroke="#121513" stroke-width="5.852" points="130.21 164.544 157.459 164.544 157.459 137.295 130.21 137.295"></polygon>
+                <polygon id="Fill-12" fill="#FFFFFF" points="130.21 114.469 157.459 114.469 157.459 87.22 130.21 87.22"></polygon>
+                <polygon id="Stroke-13" stroke="#121513" stroke-width="5.852" points="130.21 114.469 157.459 114.469 157.459 87.22 130.21 87.22"></polygon>
+                <path d="M50,203.5 L185,203.5" id="Stroke-14" stroke="#3B3C39" stroke-width="11"></path>
+            </g>
+        </g>
+    </g>
+</svg>
