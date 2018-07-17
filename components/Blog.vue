@@ -12,12 +12,12 @@
     <div class="container blog">
       <div class="row">
         <div class="box col-md-8 offset-md-2" v-for="post in posts" v-bind:key="post.id">
-          <div class="blog-post">
+          <div class="blog-post" >
             <h2>{{post.title}}</h2>
             <img v-bind:src="post.image_url" alt="" class="img-responsive">
             <p class="blog-in" v-html="textString(post.content) + '...'"></p>
             <p>
-              <nuxt-link :to="'/' + post.slug">Continue reading...</nuxt-link>
+              <router-link :to="{ name: 'post', params: { slug: post.slug}}">Continue reading...</router-link>
             </p>
             <hr>
           </div>
@@ -26,27 +26,26 @@
     </div>
   </section>
 </template>
-
 <script>
-import { mapGetters } from "vuex";
-
-export default {
-  data() {
-    return {};
-  },
-  computed: {
-    posts() {
-      return this.$store.getters.GET_POSTS;
+import BlogPostsApi from '../services/api/BlogPostsApi'
+export default{
+  name: 'Blog',
+  data () {
+    return {
+      posts: []
     }
   },
   methods: {
-    textString(string) {
-      return string.substr(0, 600);
+    textString: function (string) {
+      return string.substr(0, 600)
     }
   },
-  created() {}
-};
+  created () {
+    var self = this
+    BlogPostsApi.getPosts()
+      .then(posts => {
+        self.posts = posts
+      })
+  }
+}
 </script>
-
-<style>
-</style>
